@@ -1,4 +1,4 @@
-# Project_Edtech_company
+# Project_Edtech_Company
 Context
 
 Assume you are a data analyst in an EdTech company. The company’s customer success team works with an objective to help customers get maximum value from their product and help them reach their goals. As part of the customer success team's efforts to achieve this objective, they organized “Champions Challenge” and offered exciting rewards to improve the engagement of users and maintain their willingness to consistently learn. You are provided with before and during the challenge learning data of users. Analyze the data to understand the efficacy of the challenge and provide the team with supportive analytics to make data informed decisions and plan action items.
